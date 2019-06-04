@@ -1,4 +1,4 @@
 
 ## Acknowledgements / Copyrights
-Dirt tile by: Azat Yantimirov
-Player sprite by: Vander96
+* Dirt tile by: Azat Yantimirov
+* Player sprite by: Vander96
