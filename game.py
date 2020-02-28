@@ -111,7 +111,7 @@ class Player(GameObject):
     """Represents the player character"""
 
     def __init__(self, game):
-        surface = surface_from_image("assets/robotfish.png")
+        surface = surface_from_image("assets/player.png")
         GameObject.__init__(self, 250, 200, surface)
 
         self.velocity_up = 0
